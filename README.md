@@ -1,60 +1,107 @@
-<h3 align="center">
-Hi, I'm King-sj — coder, cpp enthusiast
-<img
-    src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-    alt="cpp icon"
-    style="
-        vertical-align: middle;
-        width: 24px;
-        height: 24px;
-    "
-/>
-</h3>
+<div align="center">
+
+# Hi there, I'm King-sj 👋
+
+### 💻 Coder • 🚀 C++ Enthusiast • 🌟 Problem Solver
 
 
-`Simple but not simplistic, with both code and fun.`
+*Simple but not simplistic, with both code and fun.*
 
-**Cards**
+### 🔗 Quick Links
 
 <p align="center">
-	<a href="https://github.com/King-sj/github-profile-summary">
-		<img src="profile-summary-card-output/2077/0-profile-details.svg" alt="profile details" />
-	</a>
-	<br>
-	<em style="color:gray">Profile — quick facts and links</em>
+  <a href="https://bupt.online">
+    <img src="https://img.shields.io/badge/🌐_Website-bupt.online-blue?style=for-the-badge&color=4A90E2" alt="Website"/>
+  </a>
+  <a href="https://github.com/King-sj/King-sj">
+    <img src="https://img.shields.io/badge/📂_Profile_Repo-King--sj-green?style=for-the-badge&color=28A745" alt="Profile Repo"/>
+  </a>
 </p>
+
+</div>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+### Profile Overview
+<a href="https://github.com/King-sj/github-profile-summary">
+  <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="100%"/>
+</a>
+
+### 📈 Development Analytics
+
+<table>
+<tr>
+<td width="50%">
+
+**Languages Distribution**
+<img src="profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Language" width="100%"/>
+
+</td>
+<td width="50%">
+
+**Commit Language Stats**
+<img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+### 🚀 Performance Metrics
+
+<table>
+<tr>
+<td width="50%">
+
+**GitHub Statistics**
+<img src="profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats" width="100%"/>
+
+</td>
+<td width="50%">
+
+**Productivity Timeline**
+<img src="profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🙋‍♂️ About Me
+
+<div align="center">
+
+| 🌍 **Location** | 🎯 **Focus** | 🎨 **Hobbies** |
+|:---:|:---:|:---:|
+| Beijing (UTC+8) | Backend, Automation | Reading, Mathematics |
+| 🏢 | Frontend Debugging | Gaming |
+
+### 🛠️ What I Do
+> Backend development, automation solutions, and occasional frontend debugging with dramatic flair
+
+</div>
+
+
+
+---
+
+<div align="center">
+
+### 💝 Show Some Love
+
+*If you like what you see, give this repo a star! Your support fuels my coding adventures and keeps the fun going.*
 
 <p align="center">
-	<img src="profile-summary-card-output/2077/1-repos-per-language.svg" alt="repos per language" />
-	<br>
-	<em style="color:gray">Languages — what I code in most</em>
-	<br><br>
-	<img src="profile-summary-card-output/2077/2-most-commit-language.svg" alt="most commit language" />
-	<br>
-	<em style="color:gray">Commit habits — languages used in commits</em>
+  <img src="https://img.shields.io/github/stars/King-sj/King-sj?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/King-sj?style=social" alt="GitHub Followers"/>
 </p>
 
-<p align="center">
-	<img src="profile-summary-card-output/2077/3-stats.svg" alt="stats" />
-	<br>
-	<em style="color:gray">Stats — stars, forks, commits</em>
-	<br><br>
-	<img src="profile-summary-card-output/2077/4-productive-time.svg" alt="productive time" />
-	<br>
-	<em style="color:gray">Productive time — displayed in UTC+8</em>
-</p>
+### 🤖 Fun Fact
+> *"I am not a bot, but I build them. One script can change the world — or at least this README."*
 
-**About me**
+**Thanks for stopping by!** ⭐
 
-- **Location**: Beijing (UTC+8)
-- **Focus**: Backend, automation, occasional frontend debugging with dramatic flair
-- **Hobbies**: reading novels, mathematics, gaming
-
-**Quick links**
-- 🌐 Website: https://bupt.online
-- 📂 Repo: https://github.com/King-sj/King-sj
-
-
-*If you like what you see, give this repo a star! Your support fuels my coding adventures and keeps the fun going. Thanks for stopping by! ⭐*
-
-`I am not a bot, but I build them. One script can change the world — or at least this README.`
+</div>
