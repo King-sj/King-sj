@@ -21,3 +21,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 8
+          AUTO_PUSH: true
